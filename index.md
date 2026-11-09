@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Louisiana Home Vegetable Gardening](ebook/Louisiana Home Vegetable Gardening.pdf) - LSU AgCenter (2012)
 8. [Master Gardener Manual](ebook/Master Gardener Manual.pdf) - Oregon State University Extension Service (2015)
 9. [Seed to Supper A Beginners Guide to Gardening](ebook/Seed to Supper A Beginner to Gardening.pdf) - Oregon Food Bank & OSU Extension Service (2016)
-10. [Vegetables Fruits & Herbs Book A Guide to Growing Time & Taste](ebook/Vegetables Fruits & Herbs Book A Guide to Growing Time & Taste.pdf) - Miracle-Gro (2014)
+10. [Vegetables, Fruits & Herbs Book A Guide to Growing Time & Taste](ebook/Vegetables Fruits & Herbs Book A Guide to Growing Time & Taste.pdf) - Miracle-Gro (2014)
 
 ---
 *Powered by GitHub Pages*
