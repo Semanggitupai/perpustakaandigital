@@ -10,8 +10,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Garden Guide A Product of the Community Gardening Network of Ottawa](ebook/Garden Guide A Product of the Community Gardening Network of Ottawa.pdf) - Just Food Ottawa (2013)
 7. [Louisiana Home Vegetable Gardening](ebook/Louisiana Home Vegetable Gardening.pdf) - LSU AgCenter (2012)
 8. [Master Gardener Manual](ebook/Master Gardener Manual.pdf) - Oregon State University Extension Service (2015)
-9. [Seed to Supper A Beginner's Guide to Gardening](ebook/Seed to Supper A Beginner to Gardening.pdf) - Oregon Food Bank & OSU Extension Service (2016)
-10. [Vegetables, Fruits & Herbs Book A Guide to Growing Time & Taste](ebook/Vegetables Fruits & Herbs Book A Guide to Growing Time & Taste.pdf) - Miracle-Gro (2014)
+9. [Seed to Supper A Beginner's Guide to Gardening](ebook/Seed to Supper A Beginne'r to Gardening.pdf) - Oregon Food Bank & OSU Extension Service (2016)
+10. [Vegetables, Fruits & Herbs Book A Guide to Growing Time & Taste](ebook/Vegetables, Fruits & Herbs Book A Guide to Growing Time & Taste.pdf) - Miracle-Gro (2014)
 
 ---
 *Powered by GitHub Pages*
