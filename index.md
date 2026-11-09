@@ -12,6 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Master Gardener Manual](ebook/Master Gardener Manual.pdf) - Oregon State University Extension Service (2015)
 9. [Seed to Supper A Beginner's Guide to Gardening](ebook/Seed to Supper A Beginner's Guide to Gardening.pdf) - Oregon Food Bank & OSU Extension Service (2016)
 10. [Vegetables, Fruits & Herbs Book A Guide to Growing Time & Taste](ebook/Vegetables, Fruits & Herbs Book A Guide to Growing Time & Taste.pdf) - Miracle-Gro (2014)
-11,Rangkuman Visiting Lecture PATI,Afrian Bedari,2026,PDF,ebook/Rangkuman Visiting Lecture_PATI _Afrian.pdf
+11. [Rangkuman Visiting Lecture PATI](ebook/Rangkuman Visiting Lecture_PATI _Afrian.pdf) - Afrian Bedari (2026)
 ---
 *Powered by GitHub Pages*
